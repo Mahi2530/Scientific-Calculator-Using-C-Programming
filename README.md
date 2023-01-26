@@ -930,5 +930,3 @@ int main()
     int continuing = 1;
     looop(continuing);
 }
-
-
